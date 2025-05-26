@@ -80,4 +80,10 @@ Our code is based on [Monodepth2](https://github.com/nianticlabs/monodepth2), [L
 
 ## 🖇️Citation
 
-    Ding Y, Li K, Mei H, et al. WaterMono: Teacher-guided anomaly masking and enhancement boosting for robust underwater self-supervised monocular depth estimation[J]. IEEE Transactions on Instrumentation and Measurement, 2025.
+    @article{ding2025watermono,
+  title={WaterMono: Teacher-guided anomaly masking and enhancement boosting for robust underwater self-supervised monocular depth estimation},
+  author={Ding, Yilin and Li, Kunqian and Mei, Han and Liu, Shuaixin and Hou, Guojia},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  year={2025},
+  publisher={IEEE}
+  }
