@@ -2,7 +2,7 @@
   
 # WaterMono 
 **Teacher-Guided Anomaly Masking and Enhancement Boosting for Robust Underwater Self-Supervised Monocular Depth Estimation**
-  [[paper link]](https://arxiv.org)
+  [[paper link]](https://ieeexplore.ieee.org/abstract/document/10937915)
   
   Yilin Ding, Kunqian Li*, Han Mei, Shuaixin Liu and Guojia Hou
   
