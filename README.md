@@ -69,7 +69,6 @@ Then evaluate the model by running:
 If you want to test generalization on the FLSea-stereo dataset, please add flag `--eval_stereo`.
 
 ## 🕒Training
-The code of training will be available after the paper is received.
 #### start training
     python train.py --data_path path/to/your/data --model_name mytrain --num_epochs 30 --batch_size 12
     
@@ -81,4 +80,4 @@ Our code is based on [Monodepth2](https://github.com/nianticlabs/monodepth2), [L
 
 ## 🖇️Citation
 
-    None
+    Ding Y, Li K, Mei H, et al. WaterMono: Teacher-guided anomaly masking and enhancement boosting for robust underwater self-supervised monocular depth estimation[J]. IEEE Transactions on Instrumentation and Measurement, 2025.
