@@ -41,7 +41,7 @@ You can also define your own split method and use them by setting the `--split` 
 
 **Enhanced Images**
 
-The enhanced images should be placed in /FLSea/location/scene/scene/seathru. You may refer to the image enhancement code in [Sea-thru](https://github.com/hainh/sea-thru) or use the pre-enhanced images provided in the FLSea dataset.
+The enhanced images should be placed in '/FLSea/location/scene/scene/seathru'. You may refer to the image enhancement code in [Sea-thru](https://github.com/hainh/sea-thru) or use the pre-enhanced images provided in the FLSea dataset.
 
 
 ## 📦 Models
