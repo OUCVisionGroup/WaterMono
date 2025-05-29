@@ -39,6 +39,11 @@ The train/test/validation splits are defined in the `splits/` folder.
 Our proposed split method is referred to as the `OUC_split`. 
 You can also define your own split method and use them by setting the `--split` flag.
 
+**Enhanced Images**
+
+The enhanced images should be placed in /FLSea/location/scene/scene/seathru. You may refer to the image enhancement code in [Sea-thru](https://github.com/hainh/sea-thru) or use the pre-enhanced images provided in the FLSea dataset.
+
+
 ## 📦 Models
 
 | Name                       | Input size | OUC disparities                       |
